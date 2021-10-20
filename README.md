@@ -13,7 +13,7 @@ BdApi.React.createElement("input", {
           //  value: "what ever you want here"
 
           })
-          ```
+```
           
 just make sure to follow regular JSX 
 *Create alerts by using   ` BdApi.alert("TEXT")` you can alert custom JSX elements.
